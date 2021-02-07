@@ -1,0 +1,4 @@
+1. One trend I noticed was there was no noticible coorelation between the city's latitdue and the cloudiness the city expierences.
+2. When it comes to the Max Temperature vs Latitude, I noticed a trend where the temperature increases as the latitude approaches 0.  This means the further you get away from 0 in both positive and negative direction, the temperature tends to decrease.
+3. One more trend I noticed was that the humidity seems to increase moderately as the lattitude increases.  This means that any increases in latitude can be coorelated with a slight increast in humidity.
+
