@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 
 
-Carter_Kioski_Answers/api_keys.py
+api_keys.py
+**/api_keys.py
 .DS_Store
 **/.DS_Store
 
